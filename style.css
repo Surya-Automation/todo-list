@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family: sans-serif;
+}
+
+
+
+
+.popup{
+    background-color:#E3E6E6;
+    height: 400px;
+    width: 800px;
+    border-radius: 10px;
+    margin-top: 175px;
+    margin-left: 320px;   
+    border: 1px solid black;
+}
+
+.item-box input{
+    height: 50px;
+    width: 590px;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 10px;
+    font-size: 1rem;
+    padding-left: 1rem;
+}
+
+.item-box button{
+    background-color: #D5B567;
+    color: rgb(255, 255, 255);
+    height: 50px;
+    width: 100px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 10px;
+    font-weight: 700;
+    padding: 1.1rem;
+}
+
+.comment-box{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    height: 60px;
+    width: 735px;
+    margin-left: 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-size: 1rem;
+    border-color: black;
+    border: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+
+.content-text{
+    margin-left: 1rem;
+    width: 85%;
+}
+
+
